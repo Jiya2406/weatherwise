@@ -2,8 +2,6 @@
 
 A modern, full-stack **weather application** built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Search any city, get your current location's weather, view a 5-day forecast, and keep track of your search history — all wrapped in a responsive UI with dark/light mode.
 
-> Built as an internship / portfolio project.
-
 ---
 
 ## ✨ Features
